@@ -1,0 +1,62 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@AnkitaRajpoot 
+Defenzelite-HQ
+/
+Risk-Congnizance-Laravel
+Private
+Cannot fork because forking is disabled.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Risk-Congnizance-Laravel/.gitignore
+@AnkitaRajpoot
+AnkitaRajpoot git ignore file changes
+Latest commit 8c762bd 3 weeks ago
+ History
+ 1 contributor
+18 lines (16 sloc)  245 Bytes
+
+/node_modules
+/public/build
+/public/hot
+
+/storage/*.key
+/vendor
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+public/vendor/telescope/app-dark.css
+storage/framework/views
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Risk-Congnizance-Laravel/.gitignore at main · Defenzelite-HQ/Risk-Congnizance-Laravel
